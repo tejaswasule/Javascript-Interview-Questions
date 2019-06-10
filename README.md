@@ -1,10 +1,9 @@
 # Javascript-Interview-Questions
-Javascript Interview Questions
 
-
+Que 1. ABC
 ## collapsible markdown?
 
-<details><summary>CLICK ME</summary>
+<details><summary>Answer</summary>
 <p>
 
 #### yes, even hidden code blocks!
