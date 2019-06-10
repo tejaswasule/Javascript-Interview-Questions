@@ -1,7 +1,6 @@
 # Javascript-Interview-Questions
 
 Que 1. ABC
-## collapsible markdown?
 
 <details><summary>Answer</summary>
 <p>
