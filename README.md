@@ -1,6 +1,6 @@
 # Javascript-Interview-Questions
 
-# Que 1. ABC
+## Que 1. ABC
 
 <details><summary>Answer</summary>
 <p>
